@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>FallenMTA Fórum</title>
+    <title>SkyMTA Fórum</title>
     <style>
         * {
             margin: 0;
@@ -295,7 +295,7 @@
     <div class="wrapper">
         <!-- Fejléc -->
         <div class="header-top">
-            <div class="logo">Fallen<span>MTA</span></div>
+            <div class="logo">Sky<span>MTA</span></div>
             <div class="search-box">
                 <input type="text" placeholder="Keresés...">
             </div>
@@ -335,7 +335,7 @@
                     <div class="forum-row bg-2">
                         <div class="forum-details">
                             <div class="forum-title-wrapper">
-                                <a href="#" class="forum-name">FallenMTA Szerver Szabályzat</a>
+                                <a href="#" class="forum-name">SkyMTA Szerver Szabályzat</a>
                             </div>
                         </div>
                     </div>
@@ -380,9 +380,9 @@
                     </div>
                 </div>
 
-                <!-- FallenMTA - Los Santos Kategória -->
+                <!-- SkyMTA - Los Santos Kategória -->
                 <div class="forum-section">
-                    <div class="category-header">FallenMTA - Los Santos</div>
+                    <div class="category-header">SkyMTA - Los Santos</div>
 
                     <div class="forum-row bg-1">
                         <div class="forum-details">
@@ -390,13 +390,13 @@
                                 <a href="#" class="forum-name">Szerver fejlesztések</a>
                                 <span class="badge-new">Új</span>
                             </div>
-                            <div class="forum-desc">FallenMTA changelogok.</div>
+                            <div class="forum-desc">SkyMTA changelogok.</div>
                         </div>
                         <div class="forum-stats">
                             Téma: 18<br>Üzenet: 18
                         </div>
                         <div class="forum-last-post">
-                            <div class="avatar">FM</div>
+                            <div class="avatar">SM</div>
                             <div class="last-post-info">
                                 <a href="#">SEPTEMBER UPDATE</a>
                                 <span class="recent-sub">2026. 09. 01.</span>
@@ -410,7 +410,7 @@
                                 <a href="#" class="forum-name">Panaszkönyv</a>
                                 <span class="badge-new">Új</span>
                             </div>
-                            <div class="forum-desc">FallenMTA panaszkönyv.<br>Alfórumok ▼</div>
+                            <div class="forum-desc">SkyMTA panaszkönyv.<br>Alfórumok ▼</div>
                         </div>
                         <div class="forum-stats">
                             Téma: 1.6K<br>Üzenet: 9.2K
@@ -517,10 +517,7 @@
                         </div>
                         <div class="forum-last-post">
                             <div class="avatar">H</div>
-                            <div class="last-post-info">
-                                <a href="#">Eladó BMW M5 e60</a>
-                                <span class="recent-sub">Tegnap</span>
-                            </div>
+                            <div class="last-post-info"><span>Eladó BMW M5 e60</span><span class="recent-sub">Tegnap</span></div>
                         </div>
                     </div>
                 </div>
@@ -532,7 +529,7 @@
                     <div class="sidebar-title">Online felhasználók</div>
                     <div class="sidebar-content">
                         Játékosok és vendégek böngészik az oldalt.<br><br>
-                        <strong style="color: #ed4245;">Összesen: 24 online tag</strong>
+                        <strong style="color: #ed4245;">Összesen: online tag</strong>
                     </div>
                 </div>
 
@@ -569,7 +566,7 @@
         </div>
 
         <div class="footer">
-            FallenMTA &copy; 2026 • Minden jog fenntartva.
+            SkyMTA &copy; 2026 • Minden jog fenntartva.
         </div>
     </div>
 
